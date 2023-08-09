@@ -4,7 +4,7 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-This application uses JS and SQL as well as env in order too encrypt password, this application uses insomnia in order to get product id and names, as well as the stock, price and category, you can also go into insomnia and add new categories as well as products to the array
+This application uses JS and SQL as well as env in order to encrypt password(env masks user and password), this application uses insomnia in order to get product id and names, as well as the stock, price and category, you can also go into insomnia and add new categories as well as products to the array
 
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -24,7 +24,7 @@ N/A
 
 
 ## Credits
-credit to: Daniel.
+credit to: Daniel and Mica and Joey.
 N/A
 
 ## License
